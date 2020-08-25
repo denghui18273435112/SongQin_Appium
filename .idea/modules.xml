@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Appium.iml" filepath="$PROJECT_DIR$/.idea/Appium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SongQin_RobotFramework/.idea/RobotFramework.iml" filepath="$PROJECT_DIR$/../SongQin_RobotFramework/.idea/RobotFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SongQin_Selenium/.idea/Selenium.iml" filepath="$PROJECT_DIR$/../SongQin_Selenium/.idea/Selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Selenium_eight_positioning_plural/.idea/Selenium_eight_positioning_plural.iml" filepath="$PROJECT_DIR$/../Selenium_eight_positioning_plural/.idea/Selenium_eight_positioning_plural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SongQin_Python/.idea/SongQin.iml" filepath="$PROJECT_DIR$/../SongQin_Python/.idea/SongQin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SongQin_project/.idea/SongQin_project.iml" filepath="$PROJECT_DIR$/../SongQin_project/.idea/SongQin_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SongQin_WebApi/.idea/WebApi.iml" filepath="$PROJECT_DIR$/../SongQin_WebApi/.idea/WebApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ZZL/.idea/ZZL.iml" filepath="$PROJECT_DIR$/../ZZL/.idea/ZZL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo/.idea/demo.iml" filepath="$PROJECT_DIR$/../demo/.idea/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project/.idea/project.iml" filepath="$PROJECT_DIR$/../project/.idea/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonScriptLinTeacher/.idea/pthonScript.iml" filepath="$PROJECT_DIR$/../PythonScriptLinTeacher/.idea/pthonScript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test/.idea/test.iml" filepath="$PROJECT_DIR$/../test/.idea/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zzltop/.idea/zzltop.iml" filepath="$PROJECT_DIR$/../zzltop/.idea/zzltop.iml" />
+    </modules>
+  </component>
+</project>
